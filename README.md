@@ -1,1 +1,1 @@
-# GHAS-push-notifications-server
+# push-notification-demo
